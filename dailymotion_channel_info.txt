@@ -1,11 +1,11 @@
 ~~ DO NOT EDIT THE FIRST 2 LINES
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
-Acento TV EN VIVO | Republica Dominicana | https://i.imgur.com/xkzbit6.png | 0038
-https://www.dailymotion.com/video/x8dxadh
+~~Acento TV EN VIVO | Republica Dominicana | https://i.imgur.com/xkzbit6.png | 0038
+~~https://www.dailymotion.com/video/x8dxadh
 
-Color Vision EN VIVO | Republica Dominicana | https://i.imgur.com/iK4oxa2.png | 0009
-https://www.dailymotion.com/video/x7gy059
+~~Color Vision EN VIVO | Republica Dominicana | https://i.imgur.com/iK4oxa2.png | 0009
+~~https://www.dailymotion.com/video/x7gy059
 
 Telesistema 11 EN VIVO | Republica Dominicana | https://i.imgur.com/mm2g9U3.png | 0011
 https://www.dailymotion.com/video/x80ac48
