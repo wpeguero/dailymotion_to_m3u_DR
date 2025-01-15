@@ -15,6 +15,7 @@ banner = r'''
 import requests
 import os
 import sys
+import time
 
 proxies = {}
 if len(sys.argv) == 2:
@@ -22,12 +23,15 @@ if len(sys.argv) == 2:
                 'http' : sys.argv[1],
                 'https' : sys.argv[1]
               }
-
+qualities = ['1080p', '720p', '480p', '240p']
 na = 'https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u'
 def grab(line):
     try:
         _id = line.split('/')[4]
-        response = s.get(f'https://www.dailymotion.com/player/metadata/video/{_id}', proxies=proxies).json()['qualities']['auto'][0]['url']
+        for quality in qualities:
+            response = s.get(f'https://www.dailymotion.com/player/metadata/video/{_id}', proxies=proxies).json()['qualities'][quality][0]['url']
+            print(response)
+            exit()
         m3u = s.get(response, proxies=proxies).text
         m3u = m3u.strip().split('\n')[1:]
         d = {}
