@@ -5,7 +5,7 @@ M3U = "#EXTM3U\n"
 def main():
     print(M3U)
     with open('../dailymotion_channel_info.txt') as f:
-        quality = '720p'
+        quality = 'best'
         for line in f:
             line = line.strip()
             if not line or line.startswith('~~'):
@@ -25,7 +25,6 @@ def grab(link:str, quality:str):
     """Extract the url link to view the show."""
     session = streamlink.Streamlink()
     streams = session.streams(link)
-    print(streams.keys())
     best = streams[quality]
     if 'live-240.m3u' in best.url:
         best = best.replace('live-240.m3u', 'live-720.m3u')
