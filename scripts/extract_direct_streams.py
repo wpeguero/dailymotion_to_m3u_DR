@@ -34,6 +34,6 @@ def grab(link:str, quality:str):
         best = best.replace('live-380.m3u', f'live-{quality}.m3u')
     else:
         pass
-    print(f'{best.url}')
+    print(f'{best}')
 
 main()
