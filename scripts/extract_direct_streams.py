@@ -4,12 +4,12 @@ M3U = "#EXTM3U\n"
 
 def main():
     print(M3U)
-    with open('../dailymotion_channel_info.txt') as f:
+    with open('dailymotion_channel_info.txt') as f:
         for line in f:
             line = line.strip()
             if not line or line.startswith('~~'):
                 continue
-            if not line.startswith('https:'):
+            if not line.startswith('http'):
                 line = line.split('|')
                 ch_name = line[0].strip()
                 grp_title = line[1].strip().title()
