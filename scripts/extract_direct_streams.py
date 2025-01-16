@@ -26,6 +26,4 @@ def grab(link:str):
     best = streams['best']
     print(f'{best.url}')
 
-
-if __name__ == "__main__":
-    main()
+main()
