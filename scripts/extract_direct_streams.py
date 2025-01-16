@@ -25,10 +25,10 @@ def grab(link:str, quality:str):
     """Extract the url link to view the show."""
     session = streamlink.Streamlink()
     streams = session.streams(link)
-    best = streams['best']
-    if 'live-240.m3u' in best:
+    best = streams[quality]
+    if 'live-240.m3u' in best.url:
         best = best.replace('live-240.m3u', 'live-720.m3u')
-    elif 'live-380.m3u' in best:
+    elif 'live-380.m3u' in best.url:
         best = best.replace('live-380.m3u', 'live-720.m3u')
     else:
         pass
