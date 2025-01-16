@@ -31,6 +31,7 @@ jobs:
       
       - name: Main
         run: |
+          pip3 install streamlink
           pwd
           chmod +x autorun_github.sh
           ./autorun_github.sh
