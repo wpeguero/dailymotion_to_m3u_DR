@@ -22,7 +22,7 @@ def main():
 def grab(link:str):
     """Extract the url link to view the show."""
     session = streamlink.Streamlink()
-    streams = session.streams("https://livestream.com/accounts/27456795/events/10633780")
+    streams = session.streams(link)
     best = streams['best']
     print(f'{best.url}')
 
