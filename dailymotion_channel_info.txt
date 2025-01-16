@@ -1,20 +1,20 @@
 ~~ DO NOT EDIT THE FIRST 2 LINES
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id> | <quality>
 
-Acento TV EN VIVO | Republica Dominicana | https://i.imgur.com/xkzbit6.png | 0038 | 720p
+Acento TV EN VIVO | Republica Dominicana | https://i.imgur.com/xkzbit6.png | 0038 | 720
 https://www.dailymotion.com/video/x8dxadh
 
-Color Vision EN VIVO | Republica Dominicana | https://i.imgur.com/iK4oxa2.png | 0009 | 720p
+Color Vision EN VIVO | Republica Dominicana | https://i.imgur.com/iK4oxa2.png | 0009 | 720
 https://www.dailymotion.com/video/x7gy059
 
-Telesistema 11 EN VIVO | Republica Dominicana | https://i.imgur.com/mm2g9U3.png | 0011 | 720p
+Telesistema 11 EN VIVO | Republica Dominicana | https://i.imgur.com/mm2g9U3.png | 0011 | 720
 https://www.dailymotion.com/video/x80ac48
 
-Telemicro EN VIVO | Republica Dominicana | https://i.imgur.com/Jgwi3fP.png | 0005 | 1080p
+Telemicro EN VIVO | Republica Dominicana | https://i.imgur.com/Jgwi3fP.png | 0005 | 1080
 http://livestream.com/accounts/27456795/events/10633780
 
-Telecentro EN VIVO | Republica Dominicana | https://i.imgur.com/g5rEOyF.png | 0013 | 720p
+Telecentro EN VIVO | Republica Dominicana | https://i.imgur.com/g5rEOyF.png | 0013 | 720
 http://livestream.com/accounts/27456795/events/10501048
 
-Digital 15 EN VIVO | Republica Dominicana | https://i.imgur.com/3dMYndw.png | 0015 | 720p
+Digital 15 EN VIVO | Republica Dominicana | https://i.imgur.com/3dMYndw.png | 0015 | 720
 http://livestream.com/accounts/27456795/events/10633798
