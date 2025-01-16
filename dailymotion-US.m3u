@@ -1,2 +1,20 @@
 #EXTM3U
 
+
+#EXTINF:-1 group-title="Republica Dominicana" tvg-logo="https://i.imgur.com/xkzbit6.png" tvg-id="0038", Acento TV EN VIVO
+https://live-b.cf.dmcdn.net/sec2(m1uEODnpbffDs4DMFtB1gamqPQfOOqwFTI_mJDKM-iCWz1SfaXE7ju28BHJeguYW79X9OBpNhuvPO4KSRnC3cC_uuKzgDXGJgq0OCEMWQJu0ME9gYHXPcbCGnf2N6Nd4)/dm/3/x8dxadh/s/live-380.m3u8#cell=lcfb
+
+#EXTINF:-1 group-title="Republica Dominicana" tvg-logo="https://i.imgur.com/iK4oxa2.png" tvg-id="0009", Color Vision EN VIVO
+https://live-b.cf.dmcdn.net/sec2(dhtDDf2EBHXvBGliypsTmO-ZUACRDEXAh3OgLHfQe8lfXBruDG0pj06RZdmYf2BDeniEqZiFmLNin39A86YZioBA8rhLzyAbkh3GZjkrfbUR3UyTxviLq3_FcX851Ass)/dm/3/x7gy059/d/live-240.m3u8#cell=lcfb
+
+#EXTINF:-1 group-title="Republica Dominicana" tvg-logo="https://i.imgur.com/mm2g9U3.png" tvg-id="0011", Telesistema 11 EN VIVO
+https://live-b2.cf.dmcdn.net/sec2(429lBiBO1Cj_y9M9JhUVcHAXQVnY_QjCddba5kLAJfPzUgjKzaRMfU6S796td1h62bhLs8BLDrnDpmPp_SEDAlGfiGbp5cLqXJ_VULZqZhWpv42dLXQz0e3Kgfvs5NMg)/cloud/3/x80ac48/d/live-720.m3u8#cell=lcfb2
+
+#EXTINF:-1 group-title="Republica Dominicana" tvg-logo="" tvg-id="0005", Telemicro EN VIVO
+https://playback.akamaized.net/streams/27456795_10633780_lsi87x97stco237y9xx_1/media/27456795_10633780_lsi87x97stco237y9xx_1@5256000p.m3u8?dw=80&ts=1737050400&hdnts=exp=1737225856~acl=/streams/27456795_10633780_lsi87x97stco237y9xx_1/media*~hmac=15059cbd7644113a66d0501714464b9c051535717d70da18dee0b5c9939216f0
+
+#EXTINF:-1 group-title="Republica Dominicana" tvg-logo="" tvg-id="0013", Telecentro EN VIVO
+https://playback.akamaized.net/streams/27456795_10501048_lsiefnzrrbg1kblooyj_1/media/27456795_10501048_lsiefnzrrbg1kblooyj_1@2756000p.m3u8?dw=80&ts=1737050400&hdnts=exp=1737225856~acl=/streams/27456795_10501048_lsiefnzrrbg1kblooyj_1/media*~hmac=351e9f18b69dc783bf3201ff71ba7c03d64715c3b2e83b07ea21ba43fe483d72
+
+#EXTINF:-1 group-title="Republica Dominicana" tvg-logo="" tvg-id="0015", Digital 15 EN VIVO
+https://playback.akamaized.net/streams/27456795_10633798_lsiia84n5bjdavoj8sg_1/media/27456795_10633798_lsiia84n5bjdavoj8sg_1@2756000p.m3u8?dw=80&ts=1737050400&hdnts=exp=1737225857~acl=/streams/27456795_10633798_lsiia84n5bjdavoj8sg_1/media*~hmac=a9593bf43a7d48c2cc39588e2c2806d88e749ef30fe6c6e5eb60f4c4218a9b55
