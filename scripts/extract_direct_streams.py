@@ -1,6 +1,8 @@
 import streamlink
 
 M3U = "#EXTM3U\n"
+na = 'https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u'
+
 
 def main():
     print(M3U)
@@ -25,18 +27,22 @@ def grab(link:str, quality:str):
     """Extract the url link to view the show."""
     session = streamlink.Streamlink()
     streams = session.streams(link)
-    best = streams['best'].url
-    if 'youtube' in link:
-        pass
-    else:
-        if 'live-720.m3u' in best:
-            best = best.replace('live-720.m3u', f'live-{quality}.m3u')
-        elif 'live-240.m3u' in best:
-            best = best.replace('live-240.m3u', f'live-{quality}.m3u')
-        elif 'live-380.m3u' in best:
-            best = best.replace('live-380.m3u', f'live-{quality}.m3u')
-        else:
+    try:
+        best = streams['best'].url
+        if 'youtube' in link:
             pass
+        else:
+            if 'live-720.m3u' in best:
+                best = best.replace('live-720.m3u', f'live-{quality}.m3u')
+            elif 'live-240.m3u' in best:
+                best = best.replace('live-240.m3u', f'live-{quality}.m3u')
+            elif 'live-380.m3u' in best:
+                best = best.replace('live-380.m3u', f'live-{quality}.m3u')
+            else:
+                pass
+    except KeyError as e:
+        best = na
+        print("There was a key error.")
     print(f'{best}')
 
 main()
