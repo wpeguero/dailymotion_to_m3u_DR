@@ -26,14 +26,17 @@ def grab(link:str, quality:str):
     session = streamlink.Streamlink()
     streams = session.streams(link)
     best = streams['best'].url
-    if 'live-720.m3u' in best:
-        best = best.replace('live-720.m3u', f'live-{quality}.m3u')
-    elif 'live-240.m3u' in best:
-        best = best.replace('live-240.m3u', f'live-{quality}.m3u')
-    elif 'live-380.m3u' in best:
-        best = best.replace('live-380.m3u', f'live-{quality}.m3u')
-    else:
+    if 'youtube' in link:
         pass
+    else:
+        if 'live-720.m3u' in best:
+            best = best.replace('live-720.m3u', f'live-{quality}.m3u')
+        elif 'live-240.m3u' in best:
+            best = best.replace('live-240.m3u', f'live-{quality}.m3u')
+        elif 'live-380.m3u' in best:
+            best = best.replace('live-380.m3u', f'live-{quality}.m3u')
+        else:
+            pass
     print(f'{best}')
 
 main()
