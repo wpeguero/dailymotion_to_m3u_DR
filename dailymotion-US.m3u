@@ -2,25 +2,25 @@
 
 
 #EXTINF:-1 group-title="Republica Dominicana" tvg-logo="https://i.imgur.com/xkzbit6.png" tvg-id="0038", Acento TV EN VIVO
-https://live-c.cf.dmcdn.net/sec2(yif5v50Xb8Ce63I5eDEs3LqLEkDCo7YQX5jsMxnJ7nWS66EcS9FwK1gopGgcs8yjtN6-_TPftnGotkx5fvRGVLgA7qTPYn6onvMArMh8jwMzXlQGX4-bIT0m5x8vMsmm)/dm/3/x8dxadh/s/live-720.m3u8#cell=lcfc
+https://live-b.cf.dmcdn.net/sec2(egzYyoGC_3AeDUiZ2V-y-OHjKLUmRXsJ31CyWqTcib9_hrC_4NJfQtbMSZQZPcxlow520y1282A5QerJlE_cS3lgZ1Wtr9LxQaJy4Q5t8V0y6cwU2jAjD11Riqn1giY6)/dm/3/x8dxadh/s/live-720.m3u8#cell=lcfb
 
 #EXTINF:-1 group-title="Republica Dominicana" tvg-logo="https://i.imgur.com/iK4oxa2.png" tvg-id="0009", Color Vision EN VIVO
-https://live-b.cf.dmcdn.net/sec2(ARKTvZQ3pK8i7YDDIN0iT5Ar_Ea6t_4g6RSGHaIjl9iW99Bf1lmiSHVB0DS9ia5_iEWNv-Ol2OTCfZm0_42M4ic5Fqka4Fpa7kjpEDh_jro-Gg4-1BBOJdYkil8i3P47)/dm/3/x7gy059/d/live-720.m3u8#cell=lcfb
+https://live-b.cf.dmcdn.net/sec2(iodI0EYu61aqWtCQWNsZAoEvmPkMjQ1yQFPpQPOUaWI7tyU7lQ8KyOapypBX5w3aZZh99_G4EW9rwYJGVKruHQiYUz0BXWwvPPWTMMCY99-B3g70Agwe5oq44_g3_Qrv)/dm/3/x7gy059/d/live-720.m3u8#cell=lcfb
 
 #EXTINF:-1 group-title="Republica Dominicana" tvg-logo="https://i.imgur.com/mm2g9U3.png" tvg-id="0011", Telesistema 11 EN VIVO
-https://live-c2.cf.dmcdn.net/sec2(NtNvqp14QSSKELtcMAnfyhtpjxYS3ReXOVRTfUjNOVIxI6k_i3bSnEjKbrzkoRyckod9uUIYuGGopur7F3adJkZKQB18Vu4xmiy0kbgVQCExevINaqOLzyNqNb-UOByA)/cloud/3/x80ac48/d/live-720.m3u8#cell=lcfc2
+https://live-b2.cf.dmcdn.net/sec2(BMyqSsDd--nGApicaScPDN4qnuCCNhk06m3x1_QnhVQY8lPRC0mEF3MisbjW0RkQ3Rlh-CG6L6U-UNFq12rAytyqhIpdyaxlOzKKirgh5R1q_oAicex3VeQmUYPbefiW)/cloud/3/x80ac48/d/live-720.m3u8#cell=lcfb2
 
 #EXTINF:-1 group-title="Republica Dominicana" tvg-logo="https://i.imgur.com/Jgwi3fP.png" tvg-id="0005", Telemicro EN VIVO
-https://playback.akamaized.net/streams/27456795_10633780_lsizg8dh4mgppqx4bit_1/media/27456795_10633780_lsizg8dh4mgppqx4bit_1@5256000p.m3u8?dw=80&ts=1737691200&hdnts=exp=1737864981~acl=/streams/27456795_10633780_lsizg8dh4mgppqx4bit_1/media*~hmac=de4f00c076ca2f3e2178f3657632d29592e52e6f005e89e5de0aee23006f6c51
+https://playback.akamaized.net/streams/27456795_10633780_lsitire5km8mxdrd521_1/media/27456795_10633780_lsitire5km8mxdrd521_1@5256000p.m3u8?dw=80&ts=1737734400&hdnts=exp=1737908168~acl=/streams/27456795_10633780_lsitire5km8mxdrd521_1/media*~hmac=939418acffc4c2beafaa91b98f45e4aa64db1b2f83e2cfc85f77132850c3ebc0
 
 #EXTINF:-1 group-title="Republica Dominicana" tvg-logo="https://i.imgur.com/g5rEOyF.png" tvg-id="0013", Telecentro EN VIVO
-https://playback.akamaized.net/streams/27456795_10501048_lsid9cihh2i2ogt6bzg_1/media/27456795_10501048_lsid9cihh2i2ogt6bzg_1@2756000p.m3u8?dw=80&ts=1737691200&hdnts=exp=1737864982~acl=/streams/27456795_10501048_lsid9cihh2i2ogt6bzg_1/media*~hmac=f3733121b6a521b4054b0bd06d8f08ccdd1dd2941e1a55f53ad9107f30b7eeff
+https://playback.akamaized.net/streams/27456795_10501048_lsistcg7yjbkqjifsr5_1/media/27456795_10501048_lsistcg7yjbkqjifsr5_1@2756000p.m3u8?dw=80&ts=1737734400&hdnts=exp=1737908169~acl=/streams/27456795_10501048_lsistcg7yjbkqjifsr5_1/media*~hmac=8f85af4359073426f7ff8b97a7e025817c2acaea04b9c5c11f6518acac59b7ef
 
 #EXTINF:-1 group-title="Republica Dominicana" tvg-logo="https://i.imgur.com/3dMYndw.png" tvg-id="0015", Digital 15 EN VIVO
-https://playback.akamaized.net/streams/27456795_10633798_lsixts5x3mootbcuoxl_1/media/27456795_10633798_lsixts5x3mootbcuoxl_1@2756000p.m3u8?dw=80&ts=1737691200&hdnts=exp=1737864982~acl=/streams/27456795_10633798_lsixts5x3mootbcuoxl_1/media*~hmac=29062e36fb445663fcff50c6a92ea20327d4e30f54250b2f064d3162ca2cf6c5
+https://playback.akamaized.net/streams/27456795_10633798_lsixts5x3mootbcuoxl_1/media/27456795_10633798_lsixts5x3mootbcuoxl_1@2756000p.m3u8?dw=80&ts=1737734400&hdnts=exp=1737908170~acl=/streams/27456795_10633798_lsixts5x3mootbcuoxl_1/media*~hmac=2ee31f588c26afdad8aa2b130a4b2a9d481efa1bd768df0bf9526f0d6186e56a
 
 #EXTINF:-1 group-title="Republica Dominicana" tvg-logo="https://i.imgur.com/vshjA7l.png" tvg-id="0039", Coral EN VIVO
-https://live-c2.cf.dmcdn.net/sec2(zqo0uAyCg0prgfzIDspRQ9qaC8_ViqoVD6CxQ9h1qXmzNHzet5YrwK_20LQI6G44kCgwQy58XWMSseh_63WMkTPJv5QeI_ljhLXW5uTMcZXev47DlNCiBu7dsJtyepwM)/cloud/3/x84nyz2/d/live-480.m3u8#cell=lcfc2
+https://live-c2.cf.dmcdn.net/sec2(oGW4aPCDY4BFjuByjAP-UqaluGFqvguTyaRiaBKi1usACprhTlg2Vbp61QM8jOxyK79nIpzHSCMDmKXHHQkdRldVs9-6X7vaBu_b8NWcbXwwWRqY1vvz8xH-Yy0BPcCJ)/cloud/3/x84nyz2/d/live-480.m3u8#cell=lcfc2
 
 #EXTINF:-1 group-title="Republica Dominicana" tvg-logo="https://i.imgur.com/XDRU7Ne.png" tvg-id="0012", ZTV EN VIVO
 There was a key error.
