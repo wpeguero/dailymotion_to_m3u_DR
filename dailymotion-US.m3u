@@ -2,3 +2,15 @@
 
 
 #EXTINF:-1 group-title="Republica Dominicana" tvg-logo="https://i.imgur.com/xkzbit6.png" tvg-id="0038", Acento TV EN VIVO
+https://live-b.cf.dmcdn.net/sec2(pECHdjB9voJmNAArioE39FrhZfyjItKxvioAbxP_qT9Zlx76-OGK6BLB5Dt2nP_TH-7_Uj_HZwJVfXoDtEem-lzGKJJ0Pvm2SYpEX9yMbmEY1SDAa5TX2j1J8o8C2P2L)/dm/3/x8dxadh/s/live-720.m3u8#cell=lcfb
+
+#EXTINF:-1 group-title="Republica Dominicana" tvg-logo="https://i.imgur.com/iK4oxa2.png" tvg-id="0009", Color Vision EN VIVO
+https://live-c.cf.dmcdn.net/sec2(oy9rlZ4WXc-X-KGcX3mjkncrv3TRtC8X3jYCACFzME7ulS-HdYFMqs-cwor_C0oRqdmJUwbijsWL21nzQSNQRu5y5y7grRL64NA9NiJodwjQe2fHLuvSaW8EC6orRRga)/dm/3/x7gy059/d/live-720.m3u8#cell=lcfc
+
+#EXTINF:-1 group-title="Republica Dominicana" tvg-logo="https://i.imgur.com/mm2g9U3.png" tvg-id="0011", Telesistema 11 EN VIVO
+https://live-b2.cf.dmcdn.net/sec2(RsW07HQe_Yip5c43r4pKuqjbSsKjq5S-TIGXvFax8n0rovHcec8zWWVlQj_jkIIhS19ecgGfmO2MfYqsWEtv2bD9rjRAlFwF1eF_85FavXpO1Ck9-aWlknqVFb4Ziai-)/cloud/3/x80ac48/d/live-720.m3u8#cell=lcfb2
+
+#EXTINF:-1 group-title="Republica Dominicana" tvg-logo="https://i.imgur.com/vshjA7l.png" tvg-id="0039", Coral EN VIVO
+https://live-c2.cf.dmcdn.net/sec2(oqbzS_6hyV0D3rUioP0a18vnSHXmz7OgZih-N-XFxac7s7D6C3dy2kbqtPh4l639KH8zaVbQzurwWjz9PSMx-k7Rbz3W8k9bbaLX4iQUFmAfKbIvReUx0MEsN9_aZO3G)/cloud/3/x84nyz2/d/live-480.m3u8#cell=lcfc2
+
+#EXTINF:-1 group-title="Republica Dominicana" tvg-logo="https://i.imgur.com/BhrGLan.jpeg" tvg-id="0033.1", Super Canal EN VIVO
