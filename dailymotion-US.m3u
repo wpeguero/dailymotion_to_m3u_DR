@@ -2,16 +2,16 @@
 
 
 #EXTINF:-1 group-title="Republica Dominicana" tvg-logo="https://i.imgur.com/xkzbit6.png" tvg-id="0038", Acento TV EN VIVO
-https://live.eu-north-1a.cf.dmcdn.net/sec2(hSKtCkePqWRgBnOlkm61G4jlkMmcpoG1yby4U98BbEbonn_63amPabIuzU3WBj7nA6hoq0EDnmsDpdbX9O6ViKNj6hsraBNcKaAsiwJnCA5fEDOsxUTQi2z56WqWL39V)/dm/3/x8dxadh/s/live-720.m3u8#cell=lcf-eu-north-1a
+https://live.eu-north-1b.cf.dmcdn.net/sec2(TorTadW5ydKtYTgyczg0SzZ6X6bzNTOIqmWi3aaJQQPbL023xkUYkys9eRDzu0Owa3OLdqktPg70uEYLL9xHyqaBAaEmvHqc6MpGNChGvpnxgH7iqtwUqLcU7gOFImtz)/dm/3/x8dxadh/s/live-720.m3u8#cell=lcf-eu-north-1b
 
 #EXTINF:-1 group-title="Republica Dominicana" tvg-logo="https://i.imgur.com/iK4oxa2.png" tvg-id="0009", Color Vision EN VIVO
-https://live.eu-north-1b.cf.dmcdn.net/sec2(9UOWHc-chiciX7C72t9yRvcvFD_EIFg-AUmOo-DFodV3cMBkNN9y31UjAqOHAlIRPWZeWAgox5KNxVuJfYwdsBLew9LwZZdpTEZUbEp1nCu8SvyXJrRlqsB-s_VUJaRv)/dm/3/x7gy059/d/live-720.m3u8#cell=lcf-eu-north-1b
+https://live.eu-north-1b.cf.dmcdn.net/sec2(RL239tCtqZtc1blvvPhbWoQZ8sDQr8kxDNY4KM0NGxMo35Rhv3aPKggPX-7bG7yP_lvApYkqPrVPo2VuhvWwL_tkJ25KRt-7Cj5Wjnm37g7mrfSb2d0SKidNXZgomlJ1)/dm/3/x7gy059/d/live-720.m3u8#cell=lcf-eu-north-1b
 
 #EXTINF:-1 group-title="Republica Dominicana" tvg-logo="https://i.imgur.com/mm2g9U3.png" tvg-id="0011", Telesistema 11 EN VIVO
-https://live2.eu-north-1a.cf.dmcdn.net/sec2(irzFu-Pvu94FRJdH7tqRlvP76DynpG-9yATEsZlQrpnXZnMYUWybpAd6qB4l9y_ubRphVxvUNXzyFCshCxVmfGmUX_o0mCwXQq7cPtENP1UuKHZDBZqhT20lhrVDP0hh)/cloud/3/x80ac48/d/live-720.m3u8#cell=lcf2-eu-north-1a
+https://live2.eu-north-1a.cf.dmcdn.net/sec2(QEEep6y3oB1IOt3QU6DfSeabLA55Rh0zW65zgpsdLgnLzYz6_bkqjMrHWe2NHrcLEYoveY_KPkVGsLVO8msS3_BFkT0u4s6L4x08RHdvlrUn0ZqQMOCEqzGiWsuV9TNV)/cloud/3/x80ac48/d/live-720.m3u8#cell=lcf2-eu-north-1a
 
 #EXTINF:-1 group-title="Republica Dominicana" tvg-logo="https://i.imgur.com/vshjA7l.png" tvg-id="0039", Coral EN VIVO
-https://live2.eu-north-1b.cf.dmcdn.net/sec2(JGcDq5I9oHLhR6LO-NCwEqBbZ_sP3V08aLugsMnf8r_5bUVhlh7BRI1whK1jN9CIeu2X8Bs0KC39DL2owV009kAaJu0mR79Bh0rgjeFhAC2HbGkfR9nAudkFcvw3GcsX)/cloud/3/x84nyz2/d/live-480.m3u8#cell=lcf2-eu-north-1b
+https://live2.eu-north-1b.cf.dmcdn.net/sec2(fQHKfgEQ7fQmtegH4LBfe7twE-hb6JvHODisblSJD2fRJStpoxknQSwd833hyuWjjGh90gZCN5GjUSCOviN6ei9RC1QktOsZdII-o1pigAiIU3-9EL1M64vt9kQDtZCR)/cloud/3/x84nyz2/d/live-480.m3u8#cell=lcf2-eu-north-1b
 
 #EXTINF:-1 group-title="Republica Dominicana" tvg-logo="https://i.imgur.com/BhrGLan.jpeg" tvg-id="0033.1", Super Canal EN VIVO
 https://cnn.hostlagarto.com/supercanalhd/tracks-v1a1/mono.m3u8
