@@ -2,7 +2,7 @@
 
 
 #EXTINF:-1 group-title="Republica Dominicana" tvg-logo="https://i.imgur.com/xkzbit6.png" tvg-id="0038", Acento TV EN VIVO
-https://live.eu-north-1a.cf.dmcdn.net/sec2(vw1LUuT7UHAYPsYbnpLNJKdLo77CDvZNh8ts6-AGcwIFFqVslz-jHoVPFJA-lO-29c3slE5OjRZfaKZR6Oi46FddT1gWMiNPHDSe_k5L1mgwrOpfAbrXmebWiEbbCKBL)/dm/3/x8dxadh/s/live-720.m3u8#cell=lcf-eu-north-1a
+https://live.eu-north-1b.cf.dmcdn.net/sec2(N54wfTKP-fxUn-_-OViq4EiQcKGZLA5dDfrbZ7VbVIP4Z_eGd6DrgBaOJjsHrBonwfGiAZAKp4KgV2RrQzysYCJIy4QzaddVPyPoIK2YsKEqFiWzCp3zkN8Yq-O2JKrC)/dm/3/x8dxadh/s/live-720.m3u8#cell=lcf-eu-north-1b
 
 #EXTINF:-1 group-title="Republica Dominicana" tvg-logo="https://i.imgur.com/iK4oxa2.png" tvg-id="0009", Color Vision EN VIVO
 There was a key error.
@@ -13,7 +13,7 @@ There was a key error.
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Republica Dominicana" tvg-logo="https://i.imgur.com/vshjA7l.png" tvg-id="0039", Coral EN VIVO
-https://live2.eu-north-1a.cf.dmcdn.net/sec2(LRABfMTA_iauuAk-a-OxXVaix2nMy_9r8oD6Yz0u4YvNuLvy1fZEk_m5N2Hr9Ibl0kTx0qWLcDYSZEtiY3APRzQAFyBf5mveUecez_lLaLMEMmXJUo-q_96exoFbcLww)/cloud/3/x84nyz2/d/live-480.m3u8#cell=lcf2-eu-north-1a
+https://live2.eu-north-1a.cf.dmcdn.net/sec2(TqyWy1TZDkIb19mXfwds3D48fXlAZIR5ZtY1j0uRuQEO9SkScD4xdbJ5zMPgvfLXSs2e-aHp9tYpwsUSSP8i4UQJ02jDtY3xobNdLBCicOeJT_fThnpVF9q33H8oZv58)/cloud/3/x84nyz2/d/live-480.m3u8#cell=lcf2-eu-north-1a
 
 #EXTINF:-1 group-title="Republica Dominicana" tvg-logo="https://i.imgur.com/BhrGLan.jpeg" tvg-id="0033.1", Super Canal EN VIVO
 https://cnn.hostlagarto.com/supercanalhd/tracks-v1a1/mono.m3u8
