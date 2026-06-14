@@ -5,7 +5,7 @@ import shutil
 def main():
     url = "https://epgshare01.online/epgshare01/epg_ripper_DO1.xml.gz"
     output = "epg_ripper_DO1.xml.gz"
-    uncompressed = "epg_ripper_DO1.xml"
+    uncompressed = "../epg_ripper_DO1.xml"
     download_file(url, output)
     decompress_xml_gz(output, uncompressed)
 

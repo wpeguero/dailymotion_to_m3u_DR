@@ -3,7 +3,7 @@ import requests
 
 def main():
     url = "https://iptv-org.github.io/iptv/countries/do.m3u"
-    output_file = "DR_channels.m3u"
+    output_file = "../DR_channels.m3u"
     download_m3u(url, output_file)
 
 
