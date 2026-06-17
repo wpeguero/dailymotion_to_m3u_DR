@@ -11,6 +11,7 @@ def download_m3u(url:str, output_file:str) -> None:
     """Extracts the m3u file from the link."""
     response = requests.get(url)
     if response.status_code == 200:
+        print("code is good.")
         with open(output_file, 'wb') as file:
             file.write(response.content)
             file.close()
