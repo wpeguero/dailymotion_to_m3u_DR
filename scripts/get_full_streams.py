@@ -6,19 +6,20 @@ import xml.etree.ElementTree as ET
 import re
 import csv
 
-import pandas as pd
 
 def main():
     channels_url= "https://iptv-org.github.io/iptv/countries/do.m3u"
     out_channels = "../DR_channels.m3u"
     download_m3u(channels_url, out_channels)
     extract_tvg_id(out_channels, '../tvg_ids.csv')
-    guide_url = "https://epgshare01.online/epgshare01/epg_ripper_DO1.xml.gz"
+    guide_url = "https://www.open-epg.com/files/dominican1.xml"
     
-    out_guide = "../epg_ripper_DO1.xml.gz"
-    uncompressed = "../epg_ripper_DO1.xml"
+    out_guide = "epg_ripper_DO1.xml"
+    uncompressed = "epg_ripper_DO1.xml"
     download_file(guide_url, out_guide)
-    decompress_xml_gz(out_guide, uncompressed)
+    if ".gz" in guide_url:
+        out_guide = "../epg_ripper_DO1.xml.gz"
+        decompress_xml_gz(out_guide, uncompressed)
     # Extract channel IDs from XML and save to CSV
     extract_channel_ids_from_xml(uncompressed, "../tv_ids.csv")
     switch_ids('lookup_ids.csv', out_channels)
@@ -63,11 +64,28 @@ def download_m3u(url:str, output_file:str) -> None:
     """Extracts the m3u file from the link."""
     response = requests.get(url)
     if response.status_code == 200:
+        print("code is good.")
         with open(output_file, 'wb') as file:
             file.write(response.content)
             file.close()
+        with open(output_file, 'r+') as file:
+            count = 1
+            lines = list()
+            for line in file.readlines():
+                if "EXTINF" in line:
+                    print(line)
+                    line = line.replace("-1", str(count))
+                    count += 1
+                    lines.append(line)
+                else:
+                    lines.append(line)
+            file.seek(0)
+            file.writelines(lines)
+            file.close()
+            
     else:
         print("the link did not function properly.")
+    return None
     return None
 
 def extract_tvg_id(file_m3u:str, out_ids:str) -> None:

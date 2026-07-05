@@ -15,6 +15,21 @@ def download_m3u(url:str, output_file:str) -> None:
         with open(output_file, 'wb') as file:
             file.write(response.content)
             file.close()
+        with open(output_file, 'r+') as file:
+            count = 1
+            lines = list()
+            for line in file.readlines():
+                if "EXTINF" in line:
+                    print(line)
+                    line = line.replace("-1", str(count))
+                    count += 1
+                    lines.append(line)
+                else:
+                    lines.append(line)
+            file.seek(0)
+            file.writelines(lines)
+            file.close()
+            
     else:
         print("the link did not function properly.")
     return None
