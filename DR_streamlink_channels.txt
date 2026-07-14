@@ -1,0 +1,110 @@
+~~ DO NOT EDIT THE FIRST 2 LINES
+~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id> | <quality>
+
+MegaVision | Santiago | https://www.megavisiontvrd.com/assets/images/logos/megavision-logo.png | 002 | 1080p
+https://68aff552e1684.streamlock.net/megavision/MV/playlist.m3u8
+
+TV Plata | Puerto Plata | https://rdomint.com/images/station/1075.jpg | 003 | 1080p
+https://ss2.tvrdomi.com:1936/tvplata/tvplata/playlist.m3u8
+
+Televiaducto | Moca | https://www.televiaducto.com.do/images/logotv40w.png | 003.1 | 1080p
+https://stream.castr.com/5da89a909db964293ad13301/live_914b3bb06ca011f186b2a745922ddfb7/index.fmp4.m3u8
+
+MocaVision | Moca | https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxblfTtXwPMtLv4ktWX-ghE5RCO30E0iwaQP4ScExJWg&s=10 | 48 | 1080p
+https://stream.castr.com/5da89a909db964293ad13301/live_4e9cefb0652111f18e12cf968e79335c/index.fmp4.m3u8
+
+Cananga Vision | Santo Domingo | https://canangavision.com/wp-content/uploads/2023/07/logoCV-300x103.png | 098 | 1080p
+https://cdn.streamingcpanel.com:3545/live/canangatlive.m3u8
+
+Antena 7 | Santo Domingo | https://alba-do-antena7.cdn.mediatiquepress.com/wp-content/uploads/2023/07/8a1cd4762ba17011.png | Canal 7 de Antena Latina (República Dominicana).do | 1080p
+https://d3gie3ig6argu.cloudfront.net/medialist_15609871089997455276_hls.m3u8
+
+RTVD 4 | Santo Domingo | https://rtvd.gob.do/wp-content/uploads/2022/07/LOGO-RTVD-FINAL-2-blanco-1.webp | 004 | 1080p
+https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8?DVR=
+
+Telemicro | Santo Domingo | https://telemicro.com.do/wp-content/uploads/2021/07/icon.png | Canal 5 de República Dominicana (Telemicro).do | 1080p
+https://live2.telemicro.com.do/live/55/playlist.m3u8
+
+Quince | Santo Domingo | https://telemicro.com.do/wp-content/uploads/2021/08/pagina-telemicroMesa-de-trabajo-1-copia-14_1.png | Canal 15 (Digital Quince Telemicro) (República Dominicana).do | 1080p
+https://live4.telemicro.com.do/live/digital15cast_1080p/playlist.m3u8
+
+Telecentro | Santo Domingo | https://telemicro.com.do/wp-content/uploads/2021/08/pagina-telemicroMesa-de-trabajo-1-copia-14_2.png | Canal Telecentro (13 de República Dominicana).do | 1080p
+https://live2.telemicro.com.do/live/telecentrocast_1080p/playlist.m3u8
+
+El Seis RD | Santo Domingo | https://elseis.do/img/logo-header.png | 006 | 1080p
+https://stream.elseis.do/canal6/master.m3u8
+
+Ready TV | La Vega | https://readytelevision.com/wp-content/uploads/2020/09/Readytelevision-small.png | 006.1 | 1080p
+https://streaming.telecablecentral.com.do/ReadyTV/ReadyHD/playlist.m3u8
+
+Telemedios | Santo Domingo | https://telemedios.com.do/cropped-Logo-Horizontal-Telemedios-8-350x95.png | 008.1 | 1080p
+https://dmxleo.dailymotion.com/cdn/manifest/video/k6eXVFNzcryAVMCRses.m3u8?bs=1&rid=0&cookie_sync_ab_gk=1&reader_gdpr_flag=0&reader_gdpr_consent=&gdpr_binary_consent=opt-out&gdpr_comes_from_infopack=0&reader_us_privacy=1YNY&gpp_pl=DBABLA~BVQqAAAAAWA&gpp_pls=7&eb=https://telemedios.com.do/
+
+Peravia Vision | Bani | https://peraviavision.tv/wp-content/uploads/2018/11/cropped-Logo-PERAVIA-VISION-SOLO.png | 008.2 | 1080p
+https://ss2.tvrdomi.com:1936/peraviavision/peraviavision/playlist.m3u8
+
+Valle Vision | La Vega | https://vallevision.com.do/wp-content/uploads/2020/09/Vallevision-logo-1.png | 009.1 | 1080p
+https://streaming.telecablecentral.com.do/Vallevision/ValleHD/playlist.m3u8
+
+Color Vision | Santo Domingo | https://colorvision.com.do/wp-content/uploads/logo.png | Canal 9 de Color Visión (República Dominicana).do | 1080p
+https://dmxleo.dailymotion.com/cdn/manifest/video/x7gy059.m3u8?af=2,7,8,9&vv=1,2,3,4,5,6,7,8,11,12,13,14&mm=video/mp4,video/webm,audio/mp4,audio/mpeg,audio/aac,audio/mpeg3,audio/mp3,audio/vnd.wave,audio/wav,audio/wave,audio/ogg,audio/vorbis,image/jpeg,image/png,image/webp,image/svg+xml&cse=1jsqf2pio0b7aee7746&rts=703984&rhv=1&cen=prod&cpi=x262r7h&cpt=player&rla=en&cpr=x12s8a&eb=https://colorvision.com.do/&ps=524x314&td=colorvision.com.do&reader_gdpr_flag=0&reader_gdpr_consent=&gdpr_binary_consent=opt-out&gdpr_comes_from_infopack=0&gpp_pl=DBABLA~BVQqAAAAAWA&gpp_pls=7&reader_us_privacy=1YNY&vl=-1&ciid=1jsqf2pio0b7aee7746_VMAP_0_0&cidx=0&sidx=0&vidIdx=0&omp=Dailymotion/1.0&omn=0&imal=1&3pcb=0&rap=1&apo=monetization&pos=1&pdm=regular&pbm=2
+
+Microvision | La Vega | https://microvision.com.do/wp-content/uploads/2020/07/Logo-Micro-Retina.png | 010.1 | 1080p
+https://streaming.telecablecentral.com.do/live/MicroHD/playlist.m3u8
+
+Musavision | Puerto Plata | https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJoXhYtWlNlwTSu8fKSV2eff4_KnJysU1vWu0Pvy3i4g&s=10 | 010.2 | 1080p
+https://cnn.hostlagarto.com/musavisiontv/index.m3u8
+
+Onda TV | Santo Domingo | https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdujEsQuESyGOISL5PjsIc3ZCWOsHn4S2FlgXTzMrMww&s=10 | 010.3 | 1080p
+https://cnn.hostlagarto.com/ondatv/index.m3u8
+
+TV 10 | San Juan | https://canalesdominicanos.live/images/canales/tv-10-san-juan.png | 010.4 | 720p
+https://59d39900ebfb8.streamlock.net/tv10sanjuan/tv10sanjuan/playlist.m3u8
+
+Teleantillas | Santo Domingo | https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStHnqp6XDA-ukeOhm1P0JX4B7cu1U61wJNXu7UE-h5Xw&s=10 | 010.5 | 480p
+https://live2.eu-north-1b.cf.dmcdn.net/sec2(gw5OhelWtTsBu-6XeoO0cVExm0psNlz44jCX-8j_6JRX7bcDTiolqhG6-PrrlaQ208CpMIllVjblx8txGE9TQOcPKEC-96vArFwERzup1RyKHA-aZdcMgQ8CLrgRr5vk)/cloud/3/x8mwmvs/s/live-480.m3u8
+
+Telesistema | Santo Domingo | https://telesistema11.com.do/wp-content/themes/telesistema/images/telesistemas-logo.png | Canal Telesistema 11 (República Dominicana).do | 720p
+https://live2.eu-north-1a.cf.dmcdn.net/sec2(8AHCm4NSTZUhFTxyLX5MCa8foumYtlz81UOkKF_gQ_uNfLpzifm-O9p8oYlUtoXY63LR0jaqSGNVISoEQfOfI5JcFn-lLZWHtuYlzNAfLfFtUu8T2YlUKZZgKvxbLyrX)/cloud/3/x80ac48/d/live-720.m3u8
+
+Teleunion | Santo Domingo | https://www.teleuniontvrd.com/assets/Teleunion.png | anal Teleunion (República Dominicana).do | 1080p
+https://68aff552e1684.streamlock.net/teleunion/TU/playlist.m3u8
+
+Telever | Jarabacoa | https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz2GgjcdK2iyXL7ihi4lYKsqQbCSZISTvMSa_p1p4nGg&s=10 | 012 | 1080p
+https://soportedvb.click:3413/live/televerlive.m3u8
+
+Quisqueya Television | Santo Domingo | https://www.tvquisqueya.com/wp-content/uploads/2025/09/cropped-CABECERA_TVQ.png |Canal Televisión Dominicana.do | 1080p
+https://cloud5.livescast.com:19360/canaltvquisqueya/canaltvquisqueya.m3u8
+
+Cinevision | Santo Domingo | https://horizons-cdn.hostinger.com/ecfca1be-e6cb-4671-88a3-16852dc745f6/3e9b69ea99b82d58ff334439b68667e7.jpg | 019 | 1080p
+https://5790d294af2dc.streamlock.net/tvhdlive/tvhdlive/playlist.m3u8
+
+Teleimpacto | Santo Domingo | https://teleimpacto52.com.do/Logoweb.png | 052 | 1080p
+https://vpss2003.streamprolive.com/hls/live.m3u8
+
+Telefuturo | Santo Domingo | https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD2USJe1Oira-Ewo3UtmxuU2z9BNAU283jBxyZztGZMA&s=10 | 023 | 720p
+https://live2.eu-north-1b.cf.dmcdn.net/sec2(BiTFOiZd0eLImR-JIhYN_SUdMhl3fgxB2FxynEUTJBBc8x5HmSL7yLnCoYQe1SuL5rOWSrkFJ0YPVdjEcZ1mkQrjgw83UnLnjt5gYYr4VDSQjOdABQTzMisByQKph8XU)/cloud/3/x9imtbq/s/live-720.m3u8
+
+Luna TV | Santo Domingo | https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTteeDhNMmEMpbDf4rsVSe0Jxx0uqWrFGstVZ67q6MxCQ&s=10 | 025 | 1080p
+https://tv.wracanal10.com:3671/live/lunatvcanal53live.m3u8
+
+Canal Del Sol | Santo Domingo | https://canaldelsol.com/img/logo-canaldelsol.png | 065 | 1080p
+https://stream.canaldelsol.com/sol26/live_1080.m3u8
+
+RNN | Santo Domingo | https://rnn.com.do/wp-content/uploads/2025/04/Logo-RNN-Float.png | 027 | 1080p
+https://2-fss-2.streamhoster.com/pl_138/206532-6829902-1/playlist.m3u8
+
+Teleuniverso | Santo Domingo | https://storage.googleapis.com/teleuniverso/logo.webp | 029 | 1080p
+https://live2.eu-north-1b.cf.dmcdn.net/sec2(8F9bQbt7R74klVuIBBS9uBITbqYjGBtsANCHtCPpLXiz-EcRLajt6ixMInyfo9bQwoTnaMacIhD2y-h7_CxciWCl4OUZQvjzlm4v48b3OgmFR-FAToOQtDDx7GdKSiqg)/cloud/3/xaio352/s/live-720.m3u8
+
+Entelevision | Santo Domingo | https://storage.googleapis.com/proceso-storage/entelevision/img/Logo_entelevision.png | 035 | 1080p
+https://stream.haislin.com/entelevision/index.m3u8
+
+VTV  | Santo Domingo | https://vtvcanal32.com.do/wp-content/uploads/2024/11/Logo_horizontal_Positivo-Negativo-VTV.webp | 032 | 1080p
+https://edge.livestreaminggroup.info/vtv32live/index.fmp4.m3u8
+
+Supercanal | Santo Domingo | https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFrlvfqAi6Ar35Gaz3usu12y5dca-YznkKIbpp4CyRbA&s=10 | 033 | 1080p
+N/A
+
+CDN | Santo Domingo | https://wp.cdn.com.do/wp-content/uploads/2022/05/71e5df12-logo-cdn-w-1.svg | Canal 37 de República Dominicana (CDN).do | 1080p
+https://live.eu-north-1b.cf.dmcdn.net/sec2(u94kbuE_Z4RG84qEfIrGVyPzeCPPBVT1t8BoLxULynE23cIgoh2vuPyfWRzq-fmVwXJQzzMrTpo0kPskq0lKGyN217nVF35ODHuAsPHMivdUD8YENA1avvrr2x-l8QIk)/dm/3/x9lincs/s/live-480.m3u8

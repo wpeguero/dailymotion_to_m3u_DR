@@ -2,7 +2,6 @@
 echo $(dirname $0)
 cd $(dirname $0)/scripts/
 #python3 extract_direct_streams.py > ../dailymotion-US.m3u
-python3 dlguide.py
 python3 get_streams.py
 #python3 dailymotion_m3ugrabber.py "212.129.57.194:41258" > ../dailymotion-EU.m3u
 

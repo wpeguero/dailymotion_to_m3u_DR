@@ -5,6 +5,9 @@ import shutil
 import xml.etree.ElementTree as ET
 import re
 import csv
+import streamlink
+
+M3U = "#EXTM3U\n"
 
 
 def main():
@@ -173,6 +176,48 @@ def extract_channel_ids_from_xml(xml_file_path: str, output_csv_path: str) -> No
     except Exception as e:
         print(f"An error occurred: {e}")
     return None
+
+### Set of code toi extract the live links using streamlink.
+def create_stream_link(link:str, quality:str="") -> str:
+    """Creates a streamable link.
+    
+    Creates a link that can be used to stream
+    videos from any channel with an m3u link.
+    
+    parameter(s)
+    ------------
+    link : str
+        The raw stream link which will be converted.
+    quality : str
+        The desired quality of the video stream.
+    
+    Return(s)
+    ---------
+    stream_link : str
+        The streamable link.
+    """
+    streams = streamlink.streams(url=link)
+    best = streams['best'].to_url()
+    return best
+
+def load_streamlinks(filename:str) -> None:
+    """Creates a file containing Streamlinks."""
+    with open(filename) as f:
+        for line in f:
+            line = line.strip()
+            if not line or line.startswith('~~'):
+                continue
+            if not line.startswith('http'):
+                line = line.split('|')
+                ch_name = line[0].strip()
+                grp_title = line[1].strip().title()
+                tvg_logo = line[2].strip()
+                tvg_id = line[3].strip()
+                quality = line[4].strip()
+                print(f'\n#EXTFINF: -1 group-title={grp_title}" tvg-logo="{tvg_logo}" tvg-id="{tvg_id}", {ch_name}')
+            else:
+                create_stream_link(line)
+        f.close()
 
 
 if __name__ == "__main__":
